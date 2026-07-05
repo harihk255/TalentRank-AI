@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+python-docx
+jupyter
+scikit-learn
+tqdm

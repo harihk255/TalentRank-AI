@@ -1,0 +1,56 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files
+*.jsonl
+*.csv
+*.pkl
+*.pth
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Dataset directories
+datasets/
+exports/
+
+# Model files
+models/
+checkpoints/
+*.h5
+*.pb
+
+# Temporary files
+*.tmp
+*.temp
+allfiles.txt
